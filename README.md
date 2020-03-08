@@ -1,3 +1,3 @@
-cd top_series
-npm install
-npm run serve
+Top-Series
+
+Projet d'initiation à Vutify.js
